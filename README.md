@@ -12,7 +12,7 @@ make build
 ```
 
 
-## Configuration
+## Configure
 
 Edit `cgit.d/cgitrc`, which follows the
 [cgitrc](https://git.zx2c4.com/cgit/tree/cgitrc.5.txt) specification.
