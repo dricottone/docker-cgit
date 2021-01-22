@@ -1,0 +1,4 @@
+repo.url=A Pretty Name
+repo.path=/path/to/repository
+repo.desc=A short (80 character max) description of this repository 
+

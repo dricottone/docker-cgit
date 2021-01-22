@@ -1,0 +1,14 @@
+root-title=Index Title
+root-desc=Index Tagline
+clone-url=http://git.example.com/$CGIT_REPO_URL
+
+css=
+logo=
+favicon=
+
+#header=/etc/cgit.d/header.html
+#head-include=/etc/cgit.d/head.html
+#footer=/etc/cgit.d/footer.html
+
+#include=/etc/cgit.d/repos.list
+

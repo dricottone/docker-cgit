@@ -1,0 +1,43 @@
+# cgitrc
+
+# settings
+#branch-sort=name
+local-time=1
+#max-atom-items=10
+#max-blob-size=0
+#max-commit-count=50
+#max-message-length=80
+#max-repo-count=50
+#max-repodesc-length=80
+#max-stats=
+readme=:README.md
+#repository-sort=name
+#robots=noindex,nofollow
+#section-sort=1
+#summary-branches=10
+#summary-log=10
+#summary-tags=10
+virtual-root=/
+
+# cgit features
+#enable-commit-graph=0
+#enable-filter-overrides=0
+#enable-follow-links=0
+#enable-git-config=0
+#enable-http-clone=1
+#enable-html-serving=0
+#enable-index-links=0
+enable-index-owner=0
+enable-log-filecount=1
+enable-log-linecount=1
+#enable-remote-branches=0
+#enable-subject-links=0
+#enable-tree-linenumbers=1
+
+# filter scripts
+about-filter=/usr/lib/cgit/filters/about-formatting.sh
+source-filter=/usr/lib/cgit/filters/syntax-highlighting.py
+
+# local configurations
+include=/etc/cgit.d/cgitrc
+
